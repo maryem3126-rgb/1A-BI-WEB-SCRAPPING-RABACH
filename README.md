@@ -1,4 +1,4 @@
-# 1A-BI-WEBS-SCRAPPING-RABACH-Maryem
+# 1A-BI-WEB-SCRAPPING-RABACH-Maryem
 
 Hello Madam, I hope you're doing well
 This is what i have done so far in the fisrt Lab. 
